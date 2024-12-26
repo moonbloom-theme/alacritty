@@ -19,12 +19,12 @@ dim_foreground = "#9B9BBA"
 bright_foreground = "#E1E2ED"
 
 [colors.cursor]
-text = "#1A1B21"
+text = "#191A21"
 cursor = "#D1D2E8"
 
 [colors.vi_mode_cursor]
 text = "#1D1E27"
-cursor = "#6EB4E0"
+cursor = "#9291DC"
 
 [colors.search.matches]
 foreground = "#1D1E27"
@@ -47,15 +47,15 @@ foreground = "#1D1E27"
 background = "#D1D2E8"
 
 [colors.selection]
-text = "#1A1B21"
+text = "#191A21"
 background = "#9B9BBA"
 
 [colors.normal]
-black = "#1A1B21"
+black = "#191A21"
 red = "#E66D75"
 green = "#93c591"
 yellow = "#D9B469"
-blue = "#5A9BCF"
+blue = "#8483D8"
 magenta = "#BB83D8"
 cyan = "#4FA8B8"
 white = "#9B9BBA"
@@ -65,7 +65,7 @@ black = "#8282a9"
 red = "#F17C88"
 green = "#A1D79F"
 yellow = "#E8C87E"
-blue = "#6EB4E0"
+blue = "#9291DC"
 magenta = "#C993E9"
 cyan = "#68C7D6"
 white = "#E1E2ED"
